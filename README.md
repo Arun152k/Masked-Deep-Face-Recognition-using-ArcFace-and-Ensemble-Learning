@@ -1,6 +1,6 @@
 # Masked-Deep-Face-Recognition-using-ArcFace-and-Ensemble-Learning
 
-Scripts of our published in IEEE Xplore. Please refer to the publication article for the workflow and other details. 
+Scripts of our work published in IEEE Xplore. Please refer to the original publication article for the workflow and other details. 
 
 Publication URL:https://ieeexplore.ieee.org/document/9768777 
 
