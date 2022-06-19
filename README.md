@@ -1,6 +1,6 @@
 # Masked-Deep-Face-Recognition-using-ArcFace-and-Ensemble-Learning
 
-This github repository contains the scripts of our work published in IEEE Xplore. Please refer to the original publication article for the workflow and other details. 
+This github repository contains the scripts of our work published in IEEE Xplore. Please refer to the published article for the workflow and other details. 
 
 Publication URL:https://ieeexplore.ieee.org/document/9768777 
 
