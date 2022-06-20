@@ -2,7 +2,7 @@
 
 This github repository contains the scripts used in our work. Please refer to our article published in IEEE for the workflow and other details. 
 
-Publication URL:https://ieeexplore.ieee.org/document/9768777 
+Publication URL: https://ieeexplore.ieee.org/document/9768777 
 
 Contents:
 1. MaFaR Dataset link
