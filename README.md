@@ -8,9 +8,9 @@ Contents:
 
 1. MaFaR Dataset link: Kindly use the google drive link to access our MaFaR dataset. 
 
-MaFaR Dataset URL: https://drive.google.com/drive/folders/1X-SQe_IflOHMRX16jd430zJ3v4KFr3ht?usp=sharing
+   MaFaR Dataset URL: https://drive.google.com/drive/folders/1X-SQe_IflOHMRX16jd430zJ3v4KFr3ht?usp=sharing
 
-Please note that the dataset currently has private access (for now) and you will have to request permission to be able to access the dataset.
+   Please note that the dataset currently has private access (for now) and you will have to request permission to be able to        access the dataset.
 
 2. Code:
 
